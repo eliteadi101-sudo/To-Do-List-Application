@@ -1,0 +1,5 @@
+{
+  "name": "To-Do List",
+  "stack": "HTML, CSS, JavaScript, localStorage",
+  "description": "A persistent task manager with filters, priorities, due dates, and completion status."
+}
